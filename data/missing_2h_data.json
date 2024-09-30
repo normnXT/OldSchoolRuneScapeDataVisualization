@@ -1,0 +1,427 @@
+{
+  "12355": {
+    "id": 12355,
+    "name": "Dual macuahuitl",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 290010,
+    "lowalch": 116004,
+    "highalch": 174006,
+    "weight": 3.628,
+    "buy_limit": 15,
+    "quest_item": false,
+    "release_date": "2024-03-20",
+    "duplicate": null,
+    "examine": "A brutal pair.",
+    "icon": "",
+    "wiki_name": "Dual macuahuitl",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dual_macuahuitl",
+    "equipment": {
+      "attack_stab": 115,
+      "attack_slash": -4,
+      "attack_crush": 121,
+      "attack_magic": -4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "melee_strength": 81,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "main_hand",
+      "requirements": {
+        "attack": 70,
+        "strength": 75
+      }
+    },
+    "weapon": {
+      "attack_speed": 4,
+      "weapon_type": "dual_wield",
+      "stances": [
+        {
+          "combat_style": "pound",
+          "attack_type": "crush",
+          "attack_style": "accurate",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "pummel",
+          "attack_type": "crush",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "spike",
+          "attack_type": "stab",
+          "attack_style": "controlled",
+          "experience": "shared",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "crush",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  },
+  "12356": {
+    "id": 12356,
+    "name": "Colossal blade",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "It takes a lot of guts to wield a blade this big.",
+    "icon": "",
+    "wiki_name": "Colossal blade",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Colossal_blade",
+    "equipment": {
+      "attack_stab": -4,
+      "attack_slash": 98,
+      "attack_crush": 65,
+      "attack_magic": -4,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": -1,
+      "melee_strength": 100,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "2h",
+      "requirements": {
+        "attack": 60
+      }
+    },
+    "weapon": {
+      "attack_speed": 6,
+      "weapon_type": "sword",
+      "stances": [
+        {
+          "combat_style": "chop",
+          "attack_type": "slash",
+          "attack_style": "accurate",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "slash",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "smash",
+          "attack_type": "crush",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "slash",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  },
+  "12357": {
+    "id": 12357,
+    "name": "Soulreaper axe",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "",
+    "icon": "",
+    "wiki_name": "Soulreaper axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
+    "equipment": {
+      "attack_stab": 28,
+      "attack_slash": 134,
+      "attack_crush": 66,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "melee_strength": 121,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "main_hand",
+      "requirements": {
+        "attack": 80,
+        "strength": 80
+      }
+    },
+    "weapon": {
+      "attack_speed": 5,
+      "weapon_type": "axe",
+      "stances": [
+        {
+          "combat_style": "chop",
+          "attack_type": "slash",
+          "attack_style": "accurate",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "hack",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "smash",
+          "attack_type": "crush",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "slash",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  },
+  "12358": {
+    "id": 12358,
+    "name": "Noxious halberd",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "",
+    "icon": "",
+    "wiki_name": "Noxious halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Noxious_halberd",
+    "equipment": {
+      "attack_stab": 80,
+      "attack_slash": 132,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "melee_strength": 142,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "2h",
+      "requirements": {
+        "attack": 80
+      }
+    },
+    "weapon": {
+      "attack_speed": 5,
+      "weapon_type": "polearm",
+      "stances": [
+        {
+          "combat_style": "jab",
+          "attack_type": "stab",
+          "attack_style": "controlled",
+          "experience": "shared",
+          "boosts": null
+        },
+        {
+          "combat_style": "swipe",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "fend",
+          "attack_type": "stab",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  },
+  "12359": {
+    "id": 12359,
+    "name": "Burning claws",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "",
+    "icon": "",
+    "wiki_name": "Burning claws",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Burning_claws",
+    "equipment": {
+      "attack_stab": 43,
+      "attack_slash": 54,
+      "attack_crush": 0,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": 3,
+      "defence_slash": 6,
+      "defence_crush": 1,
+      "defence_magic": 0,
+      "defence_ranged": 0,
+      "melee_strength": 32,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "2h",
+      "requirements": {
+        "attack": 60
+      }
+    },
+    "weapon": {
+      "attack_speed": 4,
+      "weapon_type": "claw",
+      "stances": [
+        {
+          "combat_style": "chop",
+          "attack_type": "slash",
+          "attack_style": "accurate",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "slash",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "lunge",
+          "attack_type": "stab",
+          "attack_style": "controlled",
+          "experience": "shared",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "slash",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  }
+}

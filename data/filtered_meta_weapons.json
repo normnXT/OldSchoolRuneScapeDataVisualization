@@ -1,0 +1,586 @@
+{
+    "12006": {
+        "id": 12006,
+        "name": "Abyssal tentacle",
+        "wiki_name": "Abyssal tentacle",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_tentacle",
+        "equipment": {
+            "attack_stab": 0,
+            "attack_slash": 90,
+            "attack_crush": 0,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 86,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 75
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "whip",
+            "stances": [
+                {
+                    "combat_style": "flick",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lash",
+                    "attack_type": "slash",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "deflect",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "4151": {
+        "id": 4151,
+        "name": "Abyssal whip",
+        "wiki_name": "Abyssal whip",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_whip",
+        "equipment": {
+            "attack_stab": 0,
+            "attack_slash": 82,
+            "attack_crush": 0,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 82,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 70
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "whip",
+            "stances": [
+                {
+                    "combat_style": "flick",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lash",
+                    "attack_type": "slash",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "deflect",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "23995": {
+        "id": 23995,
+        "name": "Blade of saeldor",
+        "wiki_name": "Blade of saeldor (Charged)",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor#Charged",
+        "equipment": {
+            "attack_stab": 55,
+            "attack_slash": 94,
+            "attack_crush": 0,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 89,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 80
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "slash_sword",
+            "stances": [
+                {
+                    "combat_style": "chop",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "slash",
+                    "attack_type": "slash",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lunge",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "20406": {
+        "id": 20406,
+        "name": "Dragon scimitar",
+        "wiki_name": "Dragon scimitar",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
+        "equipment": {
+            "attack_stab": 8,
+            "attack_slash": 67,
+            "attack_crush": -2,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 1,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 66,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 60
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "slash_sword",
+            "stances": [
+                {
+                    "combat_style": "chop",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "slash",
+                    "attack_type": "slash",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lunge",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "22324": {
+        "id": 22324,
+        "name": "Ghrazi rapier",
+        "wiki_name": "Ghrazi rapier",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Ghrazi_rapier",
+        "equipment": {
+            "attack_stab": 94,
+            "attack_slash": 55,
+            "attack_crush": 0,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 89,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 80
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "stab_sword",
+            "stances": [
+                {
+                    "combat_style": "stab",
+                    "attack_type": "stab",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lunge",
+                    "attack_type": "stab",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "slash",
+                    "attack_type": "slash",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "stab",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "24417": {
+        "id": 24417,
+        "name": "Inquisitor's mace",
+        "wiki_name": "Inquisitor's mace",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Inquisitor's_mace",
+        "equipment": {
+            "attack_stab": 52,
+            "attack_slash": -4,
+            "attack_crush": 95,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 89,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 2,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 75
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "spiked",
+            "stances": [
+                {
+                    "combat_style": "pound",
+                    "attack_type": "crush",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "pummel",
+                    "attack_type": "crush",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "spike",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "crush",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "25977": {
+        "id": 25977,
+        "name": "Osmumten's khopesh",
+        "wiki_name": "Osmumten's khopesh",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Osmumten's_khopesh",
+        "equipment": {
+            "attack_stab": 105,
+            "attack_slash": 75,
+            "attack_crush": 0,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 103,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": null
+        },
+        "weapon": {
+            "attack_speed": 5,
+            "weapon_type": "slash_sword",
+            "stances": [
+                {
+                    "combat_style": "chop",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "slash",
+                    "attack_type": "slash",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "lunge",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "23528": {
+        "id": 23528,
+        "name": "Sarachnis cudgel",
+        "wiki_name": "Sarachnis cudgel",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Sarachnis_cudgel",
+        "equipment": {
+            "attack_stab": 30,
+            "attack_slash": 0,
+            "attack_crush": 70,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 0,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": 0,
+            "melee_strength": 70,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 65
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "spiked",
+            "stances": [
+                {
+                    "combat_style": "pound",
+                    "attack_type": "crush",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "pummel",
+                    "attack_type": "crush",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "spike",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "crush",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "11889": {
+        "id": 11889,
+        "name": "Zamorakian hasta",
+        "wiki_name": "Zamorakian hasta",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Zamorakian_hasta",
+        "equipment": {
+            "attack_stab": 85,
+            "attack_slash": 65,
+            "attack_crush": 65,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": 13,
+            "defence_slash": 13,
+            "defence_crush": 12,
+            "defence_magic": 0,
+            "defence_ranged": 13,
+            "melee_strength": 75,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 2,
+            "slot": "weapon",
+            "requirements": {
+                "attack": 70
+            }
+        },
+        "weapon": {
+            "attack_speed": 4,
+            "weapon_type": "spear",
+            "stances": [
+                {
+                    "combat_style": "lunge",
+                    "attack_type": "stab",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "swipe",
+                    "attack_type": "slash",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "pound",
+                    "attack_type": "crush",
+                    "attack_style": "controlled",
+                    "experience": "shared",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "stab",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    },
+    "12346": {
+        "id": 12346,
+        "name": "Zombie axe",
+        "wiki_name": "Zombie axe",
+        "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_axe",
+        "equipment": {
+            "attack_stab": -3,
+            "attack_slash": 105,
+            "attack_crush": 90,
+            "attack_magic": 0,
+            "attack_ranged": 0,
+            "defence_stab": -1,
+            "defence_slash": 0,
+            "defence_crush": 0,
+            "defence_magic": 0,
+            "defence_ranged": -1,
+            "melee_strength": 107,
+            "ranged_strength": 0,
+            "magic_damage": 0,
+            "prayer": 0,
+            "slot": "main_hand",
+            "requirements": {
+                "attack": 65
+            }
+        },
+        "weapon": {
+            "attack_speed": 5,
+            "weapon_type": "axe",
+            "stances": [
+                {
+                    "combat_style": "chop",
+                    "attack_type": "slash",
+                    "attack_style": "accurate",
+                    "experience": "attack",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "hack",
+                    "attack_type": "slash",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "smash",
+                    "attack_type": "crush",
+                    "attack_style": "aggressive",
+                    "experience": "strength",
+                    "boosts": null
+                },
+                {
+                    "combat_style": "block",
+                    "attack_type": "slash",
+                    "attack_style": "defensive",
+                    "experience": "defence",
+                    "boosts": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+  "12346": {
+    "id": 12346,
+    "name": "Zombie axe",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "",
+    "icon": "",
+    "wiki_name": "Zombie axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_axe",
+    "equipment": {
+      "attack_stab": -3,
+      "attack_slash": 105,
+      "attack_crush": 90,
+      "attack_magic": 0,
+      "attack_ranged": 0,
+      "defence_stab": -1,
+      "defence_slash": 0,
+      "defence_crush": 0,
+      "defence_magic": 0,
+      "defence_ranged": -1,
+      "melee_strength": 107,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "main_hand",
+      "requirements": {
+        "attack": 65
+      }
+    },
+    "weapon": {
+      "attack_speed": 5,
+      "weapon_type": "axe",
+      "stances": [
+        {
+          "combat_style": "chop",
+          "attack_type": "slash",
+          "attack_style": "accurate",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "hack",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "smash",
+          "attack_type": "crush",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "slash",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  },
+  "12347": {
+    "id": 12347,
+    "name": "Voidwaker",
+    "last_updated": "2024-09-24",
+    "incomplete": null,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": null,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 0,
+    "linked_id_placeholder": 0,
+    "placeholder": null,
+    "equipable": null,
+    "equipable_by_player": null,
+    "equipable_weapon": null,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0,
+    "buy_limit": 0,
+    "quest_item": false,
+    "release_date": "",
+    "duplicate": null,
+    "examine": "",
+    "icon": "",
+    "wiki_name": "Voidwaker",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Voidwaker",
+    "equipment": {
+      "attack_stab": 70,
+      "attack_slash": 80,
+      "attack_crush": -2,
+      "attack_magic": 5,
+      "attack_ranged": 0,
+      "defence_stab": 0,
+      "defence_slash": 1,
+      "defence_crush": 0,
+      "defence_magic": 2,
+      "defence_ranged": 0,
+      "melee_strength": 80,
+      "ranged_strength": 0,
+      "magic_damage": 0,
+      "prayer": 0,
+      "slot": "main_hand",
+      "requirements": {
+        "attack": 75
+      }
+    },
+    "weapon": {
+      "attack_speed": 4,
+      "weapon_type": "sword",
+      "stances": [
+        {
+          "combat_style": "chop",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "attack",
+          "boosts": null
+        },
+        {
+          "combat_style": "slash",
+          "attack_type": "slash",
+          "attack_style": "aggressive",
+          "experience": "strength",
+          "boosts": null
+        },
+        {
+          "combat_style": "lunge",
+          "attack_type": "stab",
+          "attack_style": "controlled",
+          "experience": "shared",
+          "boosts": null
+        },
+        {
+          "combat_style": "block",
+          "attack_type": "slash",
+          "attack_style": "defensive",
+          "experience": "defence",
+          "boosts": null
+        }
+      ]
+    }
+  }
+}
