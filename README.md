@@ -1,4 +1,4 @@
-**Note on the integrity of the data and future reuse of this data**:
+**Note on data integrity and future reuse of this data**:
 
 https://github.com/osrsbox/osrsbox-db
 
