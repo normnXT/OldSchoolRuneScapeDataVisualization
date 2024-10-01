@@ -530,66 +530,6 @@
             ]
         }
     },
-    "20559": {
-        "id": 20559,
-        "name": "Dragon 2h sword",
-        "wiki_name": "Dragon 2h sword",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_sword",
-        "equipment": {
-            "attack_stab": -4,
-            "attack_slash": 92,
-            "attack_crush": 80,
-            "attack_magic": -4,
-            "attack_ranged": 0,
-            "defence_stab": 0,
-            "defence_slash": 0,
-            "defence_crush": 0,
-            "defence_magic": 0,
-            "defence_ranged": -1,
-            "melee_strength": 93,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "2h",
-            "requirements": {
-                "attack": 60
-            }
-        },
-        "weapon": {
-            "attack_speed": 7,
-            "weapon_type": "2h_sword",
-            "stances": [
-                {
-                    "combat_style": "chop",
-                    "attack_type": "slash",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "slash",
-                    "attack_type": "slash",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "smash",
-                    "attack_type": "crush",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "slash",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
     "13652": {
         "id": 13652,
         "name": "Dragon claws",
@@ -827,60 +767,6 @@
     },
     "21003": {
         "id": 21003,
-        "name": "Elder maul",
-        "wiki_name": "Elder maul",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Elder_maul",
-        "equipment": {
-            "attack_stab": 0,
-            "attack_slash": 0,
-            "attack_crush": 135,
-            "attack_magic": -4,
-            "attack_ranged": 0,
-            "defence_stab": 0,
-            "defence_slash": 0,
-            "defence_crush": 0,
-            "defence_magic": 0,
-            "defence_ranged": 0,
-            "melee_strength": 147,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "2h",
-            "requirements": {
-                "attack": 75,
-                "strength": 75
-            }
-        },
-        "weapon": {
-            "attack_speed": 6,
-            "weapon_type": "blunt",
-            "stances": [
-                {
-                    "combat_style": "pound",
-                    "attack_type": "crush",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "pummel",
-                    "attack_type": "crush",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "crush",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
-    "21205": {
-        "id": 21205,
         "name": "Elder maul",
         "wiki_name": "Elder maul",
         "wiki_url": "https://oldschool.runescape.wiki/w/Elder_maul",

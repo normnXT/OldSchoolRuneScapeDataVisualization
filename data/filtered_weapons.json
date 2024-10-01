@@ -585,66 +585,6 @@
             ]
         }
     },
-    "4587": {
-        "id": 4587,
-        "name": "Dragon scimitar",
-        "wiki_name": "Dragon scimitar",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
-        "equipment": {
-            "attack_stab": 8,
-            "attack_slash": 67,
-            "attack_crush": -2,
-            "attack_magic": 0,
-            "attack_ranged": 0,
-            "defence_stab": 0,
-            "defence_slash": 1,
-            "defence_crush": 0,
-            "defence_magic": 0,
-            "defence_ranged": 0,
-            "melee_strength": 66,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "weapon",
-            "requirements": {
-                "attack": 60
-            }
-        },
-        "weapon": {
-            "attack_speed": 4,
-            "weapon_type": "slash_sword",
-            "stances": [
-                {
-                    "combat_style": "chop",
-                    "attack_type": "slash",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "slash",
-                    "attack_type": "slash",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "lunge",
-                    "attack_type": "stab",
-                    "attack_style": "controlled",
-                    "experience": "shared",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "slash",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
     "20406": {
         "id": 20406,
         "name": "Dragon scimitar",
@@ -698,66 +638,6 @@
                 {
                     "combat_style": "block",
                     "attack_type": "slash",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
-    "21009": {
-        "id": 21009,
-        "name": "Dragon sword",
-        "wiki_name": "Dragon sword",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_sword",
-        "equipment": {
-            "attack_stab": 65,
-            "attack_slash": 55,
-            "attack_crush": -2,
-            "attack_magic": 0,
-            "attack_ranged": 0,
-            "defence_stab": 0,
-            "defence_slash": 2,
-            "defence_crush": 1,
-            "defence_magic": 0,
-            "defence_ranged": 0,
-            "melee_strength": 63,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "weapon",
-            "requirements": {
-                "attack": 60
-            }
-        },
-        "weapon": {
-            "attack_speed": 4,
-            "weapon_type": "stab_sword",
-            "stances": [
-                {
-                    "combat_style": "stab",
-                    "attack_type": "stab",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "lunge",
-                    "attack_type": "stab",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "slash",
-                    "attack_type": "slash",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "stab",
                     "attack_style": "defensive",
                     "experience": "defence",
                     "boosts": null
@@ -848,59 +728,6 @@
             "slot": "weapon",
             "requirements": {
                 "strength": 60
-            }
-        },
-        "weapon": {
-            "attack_speed": 6,
-            "weapon_type": "blunt",
-            "stances": [
-                {
-                    "combat_style": "pound",
-                    "attack_type": "crush",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "pummel",
-                    "attack_type": "crush",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "crush",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
-    "20785": {
-        "id": 20785,
-        "name": "Dragon warhammer",
-        "wiki_name": "Dragon warhammer",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_warhammer",
-        "equipment": {
-            "attack_stab": -4,
-            "attack_slash": -4,
-            "attack_crush": 95,
-            "attack_magic": -4,
-            "attack_ranged": 0,
-            "defence_stab": 0,
-            "defence_slash": 0,
-            "defence_crush": 0,
-            "defence_magic": 0,
-            "defence_ranged": 0,
-            "melee_strength": 85,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "weapon",
-            "requirements": {
-                "attack": 60
             }
         },
         "weapon": {
@@ -1457,66 +1284,6 @@
                 {
                     "combat_style": "block",
                     "attack_type": "crush",
-                    "attack_style": "defensive",
-                    "experience": "defence",
-                    "boosts": null
-                }
-            ]
-        }
-    },
-    "6523": {
-        "id": 6523,
-        "name": "Toktz-xil-ak",
-        "wiki_name": "Toktz-xil-ak",
-        "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-xil-ak",
-        "equipment": {
-            "attack_stab": 47,
-            "attack_slash": 38,
-            "attack_crush": -2,
-            "attack_magic": 0,
-            "attack_ranged": 0,
-            "defence_stab": 2,
-            "defence_slash": 3,
-            "defence_crush": 0,
-            "defence_magic": 0,
-            "defence_ranged": 0,
-            "melee_strength": 49,
-            "ranged_strength": 0,
-            "magic_damage": 0,
-            "prayer": 0,
-            "slot": "weapon",
-            "requirements": {
-                "attack": 60
-            }
-        },
-        "weapon": {
-            "attack_speed": 4,
-            "weapon_type": "stab_sword",
-            "stances": [
-                {
-                    "combat_style": "stab",
-                    "attack_type": "stab",
-                    "attack_style": "accurate",
-                    "experience": "attack",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "lunge",
-                    "attack_type": "stab",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "slash",
-                    "attack_type": "slash",
-                    "attack_style": "aggressive",
-                    "experience": "strength",
-                    "boosts": null
-                },
-                {
-                    "combat_style": "block",
-                    "attack_type": "stab",
                     "attack_style": "defensive",
                     "experience": "defence",
                     "boosts": null
