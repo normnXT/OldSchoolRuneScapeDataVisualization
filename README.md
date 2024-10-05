@@ -1,3 +1,9 @@
+Note on data integrity and future reuse of this data:
+
+https://github.com/osrsbox/osrsbox-db
+
+The original OSRSbox datasets being used have not been updated since ~2020, weapons introduced to the game after that point only have partial data that I have retrieved from the wiki, they can be found in the `missing` JSON files. The new weapons `equipment` stats, `weapon` stats, and their `wiki_url` have been updated and are correct. The new weapons are using trivial or arbitrary item ids that are not official or used in game. Stats for older weapons being used in this project (if they are in the `filtered` JSON files) have also been updated if they were rebalanced after 2020.
+
 Due to many unusable weapons and variants like poisoned weapons, I decided to reduce available weapons data. Deciding on what group of weapons would best represent weapon stat distribution was difficult, so I reduced the data down to two groups. 
 
 The first group contains all mid-to-late game weapons including spec and niche weapons. 
@@ -12,10 +18,4 @@ The second group contains only the best 4-5 weapons of each attack type that you
 
 * **Two-handed "meta" weapons**: Abyssal bludgeon, Dual macuahuitl, Scythe of vitur, Soulreaper axe
 
-Its obviously not a perfect representation, but I thought it was interesting enough to share. Just take it for what its worth!
-
-Note on data integrity and future reuse of this data:
-
-https://github.com/osrsbox/osrsbox-db
-
-The original OSRSbox datasets being used have not been updated since ~2020, weapons introduced to the game after that point only have partial data that I have retrieved from the wiki, they can be found in the `missing` JSON files. The new weapons `equipment` stats, `weapon` stats, and their `wiki_url` have been updated and are correct. The new weapons are using trivial or arbitrary item ids that are not official or used in game. Stats for older weapons being used in this project (if they are in the `filtered` JSON files) have also been updated if they were rebalanced after 2020.
+Neither set is a perfect representation of weapon distribution, but just take it for what it's worth!
